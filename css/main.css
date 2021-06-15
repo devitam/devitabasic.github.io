@@ -42,6 +42,10 @@ ul.posts li {
     list-style: none;
 }
 
-.contacts {
-        font-size: 3em;    
+div.about {
+    font-size: 1.5em;
+}
+
+ul.contacts {
+        color: #6C6FDC;    
 }
